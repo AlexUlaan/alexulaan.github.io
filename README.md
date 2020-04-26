@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 ?????
-[posttest]{% post_url 2020-4-26-test %}
+[posttest]({% post_url 2020-4-26-test %})
 
 You can use the [editor on GitHub](https://github.com/AlexUlaan/alexulaan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
